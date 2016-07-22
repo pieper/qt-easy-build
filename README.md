@@ -26,7 +26,7 @@ TBD
 Windows
 -------
 
-1. Open desired Visual Studio Command Prompt (for 64 bit Qt, use the 64 bit Command Prompt, for 32 bit Qt, use the 32 bit Command Prompt)
+1. Open desired Visual Studio Command Prompt (for 64 bit Qt, use the 64 bit Command Prompt, for 32 bit Qt, use the 32 bit Command Prompt)  E.g. for Visual Studio 2013 64 bit compilation required for Slicer 4.5 use “VS2013 x64 Cross Tools Command Prompt”
 2. Paste the corresponding text from the box below and press enter.
 
 * Visual Studio 2013 64-bit Release
